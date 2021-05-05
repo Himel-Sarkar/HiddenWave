@@ -16,7 +16,7 @@ arged = False
 if af and string and output:
     arged = True
 def cls():
-  os.system("clear")
+  os.system("cls")
 def help():
   print("\033[92mHide Your Secret Message in Audio Wave File.\033[0m")
   print ('''usage: HiddenWave.py [-h] [-f AUDIOFILE] [-m SECRETMSG] [-o OUTPUTFILE]
