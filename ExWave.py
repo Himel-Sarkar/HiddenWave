@@ -12,7 +12,7 @@ arged = False
 if af:
     arged = True
 def cls():
-  os.system("clear")
+  os.system("cls")
 def help():
   print("\033[92mExtract Your Secret Message from Audio Wave File.\033[0m")
   print ('''usage: ExWave.py [-h] [-f AUDIOFILE]
