@@ -1,3 +1,7 @@
+# Bug fixed for Windows user
+This version is for windows User.Creator of this tool is TechChip. Bug fixed by Himel Sarkar
+
+Bug fixedfixed by Himel Sarkar
 # HiddenWave
 Embedding secret messages in wave audio file
 
@@ -5,12 +9,12 @@ Embedding secret messages in wave audio file
 Hiddenwave is a python based program for simple audio steganography. You can hide your secret text messages in wave audio file. you can play this audio in any media player and secretly share your private message with any one.
 
 # Requirements
-<p>This tool require python3</p>
+<p>This tool require Python 3.8.3</p>
 
 ## Installation
 
 ```
-git clone https://github.com/techchipnet/HiddenWave.git
+git clone https://github.com/Himel-Sarkar/HiddenWave.git
 cd HiddenWave
 ```
 ## Usage
@@ -23,12 +27,12 @@ cd HiddenWave
 ### Hide Secret Information in Audio file
 
 ```
-python3 HiddenWave.py -f Demo.wav -m "Secret Msg" -o output.wav
+py HiddenWave.py -f Demo.wav -m "himel_Sarkar" -o output.wav
 ```
 ### Extract Secret Information from Audio file
 
 ```
-python3 ExWave.py -f output.wav
+py ExWave.py -f output.wav
 ```
 
 ### Video Demo
