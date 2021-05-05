@@ -1,7 +1,7 @@
 # Bug fixed for Windows user
 This version is for windows User. Creator of this tool is TechChip.
 
-Bug fixedfixed by Himel Sarkar
+Bug fixed by Himel Sarkar
 # HiddenWave
 Embedding secret messages in wave audio file
 
