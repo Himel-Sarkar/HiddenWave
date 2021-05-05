@@ -1,5 +1,5 @@
 # Bug fixed for Windows user
-This version is for windows User.Creator of this tool is TechChip. Bug fixed by Himel Sarkar
+This version is for windows User.Creator of this tool is TechChip.
 
 Bug fixedfixed by Himel Sarkar
 # HiddenWave
